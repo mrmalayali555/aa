@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "users": [
+    {
+      "id": "517a3237-9e8d-4e0a-a86e-7d9682cf3735",
+      "telegramId": "8556190053",
+      "username": "Nex_Krishnav",
+      "createdAt": "2026-04-08T22:44:20.323Z"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "7e9f8500-6c21-4ed5-94aa-10a00f23eb0d",
+      "userId": "517a3237-9e8d-4e0a-a86e-7d9682cf3735",
+      "email": "dapadag266@dfesc.com",
+      "password": "Password@123",
+      "status": true,
+      "modules": {
+        "read": false,
+        "hear": true,
+        "write": false,
+        "speak": false
+      },
+      "createdAt": "2026-04-08T22:46:07.180Z",
+      "updatedAt": "2026-04-08T22:46:07.180Z"
+    }
+  ],
+  "schedules": [
+    {
+      "id": "24be8db6-4bf9-4f3e-b017-5133c9daff81",
+      "createdByUserId": "517a3237-9e8d-4e0a-a86e-7d9682cf3735",
+      "name": "Pune_B2_Test",
+      "runAt": "2026-04-08T19:40:00.000Z",
+      "completed": false,
+      "status": "pending",
+      "monitoringStarted": false,
+      "lastError": null,
+      "retryCount": 0,
+      "maxRetries": 5,
+      "createdAt": "2026-04-08T22:49:42.496Z",
+      "updatedAt": "2026-04-08T22:49:42.496Z"
+    },
+    {
+      "id": "07089e2a-e2e8-4111-8c81-d3ee5f2bdf14",
+      "createdByUserId": "517a3237-9e8d-4e0a-a86e-7d9682cf3735",
+      "name": "Pune_B2_Test",
+      "runAt": "2026-04-08T19:40:00.000Z",
+      "completed": false,
+      "status": "pending",
+      "monitoringStarted": false,
+      "lastError": null,
+      "retryCount": 0,
+      "maxRetries": 5,
+      "createdAt": "2026-04-08T22:54:10.456Z",
+      "updatedAt": "2026-04-08T22:54:10.456Z"
+    },
+    {
+      "id": "e9d4e1ee-d07f-4f00-9316-3bedcd8fe927",
+      "createdByUserId": "517a3237-9e8d-4e0a-a86e-7d9682cf3735",
+      "name": "Pune_B2_Test",
+      "runAt": "2026-04-08T19:40:00.000Z",
+      "completed": false,
+      "status": "pending",
+      "monitoringStarted": false,
+      "lastError": null,
+      "retryCount": 0,
+      "maxRetries": 5,
+      "createdAt": "2026-04-08T23:04:04.357Z",
+      "updatedAt": "2026-04-08T23:04:04.357Z"
+    },
+    {
+      "id": "c3fb67ec-dd1a-469b-8050-7a7e0dd81d42",
+      "createdByUserId": "517a3237-9e8d-4e0a-a86e-7d9682cf3735",
+      "name": "Immediate Test",
+      "runAt": "2026-04-09T15:00:00.000Z",
+      "completed": false,
+      "status": "pending",
+      "monitoringStarted": false,
+      "lastError": null,
+      "retryCount": 0,
+      "maxRetries": 5,
+      "createdAt": "2026-04-08T23:11:57.864Z",
+      "updatedAt": "2026-04-08T23:11:57.864Z"
+    },
+    {
+      "id": "e040bb64-4dd9-4d09-aa2a-a7e56426dad8",
+      "createdByUserId": "517a3237-9e8d-4e0a-a86e-7d9682cf3735",
+      "name": "Immediate Test",
+      "runAt": "2026-04-09T15:00:00.000Z",
+      "completed": false,
+      "status": "pending",
+      "monitoringStarted": false,
+      "lastError": null,
+      "retryCount": 0,
+      "maxRetries": 5,
+      "createdAt": "2026-04-08T23:14:03.625Z",
+      "updatedAt": "2026-04-08T23:14:03.625Z"
+    },
+    {
+      "id": "d33f3d6c-7c22-4d1b-b754-4d9c78efe57a",
+      "createdByUserId": "517a3237-9e8d-4e0a-a86e-7d9682cf3735",
+      "name": "Immediate Test",
+      "runAt": "2026-04-09T15:00:00.000Z",
+      "completed": false,
+      "status": "pending",
+      "monitoringStarted": false,
+      "lastError": null,
+      "retryCount": 0,
+      "maxRetries": 5,
+      "createdAt": "2026-04-08T23:36:43.790Z",
+      "updatedAt": "2026-04-08T23:36:43.790Z"
+    }
+  ]
+}

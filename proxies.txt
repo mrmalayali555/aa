@@ -1,0 +1,7 @@
+# Place one proxy per line in one of the supported formats:
+# host:port
+# user:pass@host:port
+# http://host:port
+# socks5://host:port
+# Example:
+# http://user:pass@45.77.27.180:80
